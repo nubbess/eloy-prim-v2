@@ -28,7 +28,7 @@
     </div>
 
     <div class="footer__bottom">
-      <span>© {{ year }} Eloy Prim | All rights reserved | Photos by Barara Klein | Design & Development: Julián Martínez Sänger - 
+      <span>© {{ year }} Eloy Prim | All rights reserved | Photos by Barbara Klein | Design & Development: Julián Martínez Sänger - 
         julianmartinezsanger@gmail.com | Salzburg, Österreich</span>
       <span>{{ t(data.copyright) }}</span>
     </div>
