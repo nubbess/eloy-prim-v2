@@ -1,0 +1,969 @@
+{
+  "nav": {
+    "inicio": {
+      "es": "Inicio",
+      "fr": "Accueil",
+      "en": "Home",
+      "de": "Start"
+    },
+    "biografia": {
+      "es": "Biografía",
+      "fr": "Biographie",
+      "en": "About",
+      "de": "Über mich"
+    },
+    "clases": {
+      "es": "Clases",
+      "fr": "Cours",
+      "en": "Classes",
+      "de": "Kurse"
+    },
+    "milonga": {
+      "es": "Milonga",
+      "fr": "Milonga",
+      "en": "Milonga",
+      "de": "Milonga"
+    },
+    "galeria": {
+      "es": "Galería",
+      "fr": "Galerie",
+      "en": "Gallery",
+      "de": "Galerie"
+    },
+    "contacto": {
+      "es": "Contacto",
+      "fr": "Contact",
+      "en": "Contact",
+      "de": "Kontakt"
+    },
+    "reservar": {
+      "es": "Reservar clase",
+      "fr": "Réserver un cours",
+      "en": "Book a class",
+      "de": "Kurs buchen"
+    }
+  },
+  "hero": {
+    "tag": {
+      "es": "Buenos Aires · Salzburgo · 2026",
+      "fr": "Buenos Aires · Salzburg · 2026",
+      "en": "Buenos Aires · Salzburg · 2026",
+      "de": "Buenos Aires · Salzburg · 2026"
+    },
+    "titulo": {
+      "es": "Tango Argentino hecho por Argentinos",
+      "fr": "Tango Argentin fait par des Argentins",
+      "en": "Argentine Tango made by Argentines",
+      "de": "Getanzt von Argentiniern"
+    },
+    "subtitulo": {
+      "es": "Bailarín · Profesor · DJ",
+      "fr": "Danseur · Professeur · DJ",
+      "en": "Dancer · Teacher · DJ",
+      "de": "Tänzer · Lehrer · DJ"
+    },
+    "descripcion": {
+      "es": "Más de 30 años llevando la esencia de las milongas porteñas al corazón de Europa. Clases, eventos y una filosofía: bailar con el alma.",
+      "fr": "Plus de 30 ans à transporter l'essence des milongas porteñas au cœur de l'Europe. Cours, événements et une philosophie : danser avec l'âme.",
+      "en": "Over 30 years bringing the essence of Buenos Aires milongas to the heart of Europe. Classes, events and one philosophy: dance with your soul.",
+      "de": "Über 30 Jahre lang die Essenz der Porteño-Milongas ins Herz Europas zu bringen. Kurse, Veranstaltungen und eine Philosophie: mit der Seele tanzen."
+    },
+    "cta_primary": {
+      "es": "Reservar clase",
+      "fr": "Réserver un cours",
+      "en": "Book a class",
+      "de": "Kurs buchen"
+    },
+    "cta_secondary": {
+      "es": "Ver cursos →",
+      "fr": "Voir les curs →",
+      "en": "See courses →",
+      "de": "Kurs ansehen →"
+    },
+    "stats": [
+      {
+        "num": "30+",
+        "label": {
+          "es": "Años bailando",
+          "fr": "Ans de danse",
+          "en": "Years dancing",
+          "de": "Jahre Tanz"
+        }
+      },
+      {
+        "num": "2×",
+        "label": {
+          "es": "Milonga/mes",
+          "fr": "Milonga/mois",
+          "en": "Milonga/month",
+          "de": "Milonga/Monat"
+        }
+      },
+      {
+        "num": "3",
+        "label": {
+          "es": "Cursos",
+          "fr": "Curs",
+          "en": "Courses",
+          "de": "Kurse"
+        }
+      },
+      {
+        "num": "15+",
+        "label": {
+          "es": "Países",
+          "fr": "Pays",
+          "en": "Countries",
+          "de": "Länder"
+        }
+      }
+    ]
+  },
+  "biografia": {
+    "label": {
+      "es": "Quién soy",
+      "fr": "Qui suis-je",
+      "en": "About me",
+      "de": "Über mich"
+    },
+    "titulo": {
+      "es": "Tango Argentino hecho por Argentinos",
+      "fr": "Tango Argentin fait par des Argentins",
+      "en": "Argentine Tango made by Argentines",
+      "de": "Argentinischer Tango gemacht von Argentiniern"
+    },
+    "lead": {
+      "es": "Bailarín, Profesor de Tango Argentino y DJ. Eloy Prim es bailarín profesional de tango argentino, coreógrafo y docente con más de 30 años de trayectoria en el arte del tango.",
+      "fr": "Danseur, Professeur de Tango Argentin et DJ. Eloy Prim est danseur professionnel de tango argentin, chorégraphe et enseignant avec plus de 30 ans de carrière dans l'art du tango.",
+      "en": "Dancer, Argentine Tango Teacher and DJ. Eloy Prim is a professional Argentine tango dancer, choreographer and teacher with over 30 years of experience in the art of tango.",
+      "de": "Tänzer, Lehrer für Argentinischen Tango und DJ. Eloy Prim ist professioneller argentinischer Tangotänzer, Choreograf und Lehrer mit über 30 Jahren Erfahrung in der Kunst des Tangos."
+    },
+    "parrafo1": {
+      "es": "Comenzó a bailar a los 13 años en Buenos Aires, formándose con destacados maestros y absorbiendo la esencia de la danza ciudadana. Desde los 17 años inició una carrera internacional que lo ha llevado a presentarse en escenarios de Europa, Asia y América. Fue miembro del Ballet Escuela de Tango Argentino y en 2004 se posicionó entre las primeras diez parejas en el Campeonato Mundial de Tango de Buenos Aires. Formó parte de la prestigiosa compañía de Juan Carlos Copes y ha compartido escenario con figuras legendarias como Mariano Mores, Alberto Podestá, Raúl Garello y Carlos Garcia.",
+      "fr": "Il a commencé à danser à 13 ans à Buenos Aires, se formant auprès de maîtres renommés et absorbant l'essence de la danse citadine. Dès 17 ans, il a entamé une carrière internationale qui l'a mené sur des scènes d'Europe, d'Asie et d'Amérique. Il fut membre du Ballet Escuela de Tango Argentino et en 2004 s'est classé parmi les dix premières couples au Championnat Mondial de Tango de Buenos Aires. Il a fait partie de la prestigieuse compagnie de Juan Carlos Copes et a partagé la scène avec des légendes comme Mariano Mores, Alberto Podestá, Raúl Garello et Carlos Garcia.",
+      "en": "He started dancing at 13 in Buenos Aires, training with renowned masters and absorbing the essence of the city's dance. From the age of 17 he began an international career that has taken him to stages across Europe, Asia and the Americas. He was a member of the Ballet Escuela de Tango Argentino and in 2004 ranked among the top ten couples at the World Tango Championship in Buenos Aires. He was part of the prestigious Juan Carlos Copes company and has shared the stage with legends such as Mariano Mores, Alberto Podestá, Raúl Garello and Carlos Garcia.",
+      "de": "Er begann im Alter von 13 Jahren in Buenos Aires zu tanzen, wurde von renommierten Meistern ausgebildet und nahm die Essenz des Stadttanzes in sich auf. Ab 17 Jahren begann er eine internationale Karriere, die ihn auf Bühnen in Europa, Asien und Amerika führte. Er war Mitglied des Ballet Escuela de Tango Argentino und belegte 2004 einen Platz unter den ersten zehn Paaren bei der Weltmeisterschaft des Tangos in Buenos Aires. Er war Teil der renommierten Kompanie von Juan Carlos Copes und hat die Bühne mit Legenden wie Mariano Mores, Alberto Podestá, Raúl Garello und Carlos Garcia geteilt."
+    },
+    "parrafo2": {
+      "es": "Ha participado en espectáculos y talleres en Argentina, Alemania, Estados Unidos, Venezuela, México, Ucrania, Uruguay, Rusia, España, Guayana Francesa, Gran Bretaña, Italia, Colombia, Isla Reunión y otros países. Actualmente dirige La Escuela de Tango Argentino en Salzburgo, Austria, donde imparte clases regulares de tango, vals y milonga. Convencido de que 'nunca se deja de aprender', continúa enriqueciendo su camino artístico y manteniendo viva la esencia de esta danza universal.",
+      "fr": "Il a participé à des spectacles et ateliers en Argentine, Allemagne, États-Unis, Venezuela, Mexique, Ukraine, Uruguay, Russie, Espagne, Guyane française, Grande-Bretagne, Italie, Colombie, Île de la Réunion et d'autres pays. Il dirige actuellement La Escuela de Tango Argentino à Salzburg, en Autriche, où il donne des cours réguliers de tango, vals et milonga. Convaincu que 'on n'arrête jamais d'apprendre', il continue d'enrichir son parcours artistique en maintenant vivante l'essence de cette danse universelle.",
+      "en": "He has performed and taught in Argentina, Germany, the United States, Venezuela, Mexico, Ukraine, Uruguay, Russia, Spain, French Guiana, Great Britain, Italy, Colombia, Réunion Island and other countries. He currently runs La Escuela de Tango Argentino in Salzburg, Austria, where he teaches regular tango, vals and milonga classes. Convinced that 'you never stop learning', he continues to enrich his artistic journey and keep alive the essence of this universal dance.",
+      "de": "Er hat an Aufführungen und Workshops in Argentinien, Deutschland, den USA, Venezuela, Mexiko, der Ukraine, Uruguay, Russland, Spanien, Französisch-Guayana, Großbritannien, Italien, Kolumbien, der Insel Réunion und anderen Ländern teilgenommen. Derzeit leitet er La Escuela de Tango Argentino in Salzburg, Österreich, wo er regelmäßige Tango-, Vals- und Milonga-Kurse unterrichtet. Überzeugt davon, dass 'man nie aufhört zu lernen', bereichert er weiterhin seinen künstlerischen Weg und hält das Wesen dieses universellen Tanzes lebendig."
+    },
+    "firma": {
+      "es": "Bailarín · Profesor · DJ · Salzburgo, Austria",
+      "fr": "Danseur · Professeur · DJ · Salzburg, Autriche",
+      "en": "Dancer · Teacher · DJ · Salzburg, Austria",
+      "de": "Tänzer · Lehrer · DJ · Salzburg, Österreich"
+    },
+    "sidebar_formacion_label": {
+      "es": "Trayectoria",
+      "fr": "Parcours",
+      "en": "Career",
+      "de": "Werdegang"
+    },
+    "formacion": [
+      {
+        "año": "1993",
+        "desc": {
+          "es": "Inicia su formación a los 13 años en Buenos Aires",
+          "fr": "Débuts à 13 ans à Buenos Aires",
+          "en": "Started training at age 13 in Buenos Aires",
+          "de": "Begann seine Ausbildung im Alter von 13 Jahren in Buenos Aires"
+        }
+      },
+      {
+        "año": "1997",
+        "desc": {
+          "es": "Carrera internacional desde los 17 años: Europa, Asia y América",
+          "fr": "Carrière internationale dès 17 ans : Europe, Asie et Amérique",
+          "en": "International career from age 17: Europe, Asia and the Americas",
+          "de": "Internationale Karriere ab 17 Jahren: Europa, Asien und Amerika"
+        }
+      },
+      {
+        "año": "2004",
+        "desc": {
+          "es": "Top 10 en el Campeonato Mundial de Tango, Buenos Aires",
+          "fr": "Top 10 au Championnat Mondial de Tango, Buenos Aires",
+          "en": "Top 10 at the World Tango Championship, Buenos Aires",
+          "de": "Top 10 bei der Weltmeisterschaft des Tangos, Buenos Aires"
+        }
+      },
+      {
+        "año": "2004+",
+        "desc": {
+          "es": "Compañía de Juan Carlos Copes. Giras por teatros internacionales",
+          "fr": "Compagnie de Juan Carlos Copes. Tournées dans les théâtres internationaux",
+          "en": "Juan Carlos Copes Company. International theatre tours",
+          "de": "Kompanie von Juan Carlos Copes. Internationale Theatertouren"
+        }
+      },
+      {
+        "año": "2012",
+        "desc": {
+          "es": "Fundación de La Escuela de Tango Argentino en Salzburgo",
+          "fr": "Fondation de La Escuela de Tango Argentino à Salzburg",
+          "en": "Founded La Escuela de Tango Argentino in Salzburg",
+          "de": "Gründung der La Escuela de Tango Argentino in Salzburg"
+        }
+      },
+      {
+        "año": "2025–2026",
+        "desc": {
+          "es": "Profesor/bailarín: Tango Anabella (Múnich), Tango Deseos (Heidelberg), AbrazTango (Karlsruhe/Baden-Baden), Milonga Hippmann7 (Wels)",
+          "fr": "Professeur/danseur : Tango Anabella (Munich), Tango Deseos (Heidelberg), AbrazTango (Karlsruhe/Baden-Baden), Milonga Hippmann7 (Wels)",
+          "en": "Teacher/dancer: Tango Anabella (Munich), Tango Deseos (Heidelberg), AbrazTango (Karlsruhe/Baden-Baden), Milonga Hippmann7 (Wels)",
+          "de": "Lehrer/Tänzer: Tango Anabella (München), Tango Deseos (Heidelberg), AbrazTango (Karlsruhe/Baden-Baden), Milonga Hippmann7 (Wels)"
+        }
+      },
+      {
+        "año": "2025–2027",
+        "desc": {
+          "es": "DJ: Tango Marathon Heidelberg, Festival Tango 32 Salzburg, Tango Maldito Múnich, DJ Residente Estación Tango 2.0 y Auténtica Milonga (2012–2026)",
+          "fr": "DJ : Tango Marathon Heidelberg, Festival Tango 32 Salzburg, Tango Maldito Munich, DJ Résident Estación Tango 2.0 et Auténtica Milonga (2012–2026)",
+          "en": "DJ: Tango Marathon Heidelberg, Tango 32 Festival Salzburg, Tango Maldito Munich, Resident DJ Estación Tango 2.0 & Auténtica Milonga (2012–2026)",
+          "de": "DJ: Tango Marathon Heidelberg, Festival Tango 32 Salzburg, Tango Maldito München, Resident-DJ Estación Tango 2.0 & Auténtica Milonga (2012–2026)"
+        }
+      }
+    ],
+    "sidebar_colaboraciones_label": {
+      "es": "Últimas colaboraciones",
+      "fr": "Dernières collaborations",
+      "en": "Recent collaborations",
+      "de": "Aktuelle Kooperationen"
+    },
+    "colaboraciones": [
+      {
+        "es": "Tango Anabella – Múnich",
+        "fr": "Tango Anabella – Munich",
+        "en": "Tango Anabella – Munich",
+        "de": "Tango Anabella – München"
+      },
+      {
+        "es": "Tango Deseos – Heidelberg",
+        "fr": "Tango Deseos – Heidelberg",
+        "en": "Tango Deseos – Heidelberg",
+        "de": "Tango Deseos – Heidelberg"
+      },
+      {
+        "es": "AbrazTango – Karlsruhe y Baden-Baden",
+        "fr": "AbrazTango – Karlsruhe et Baden-Baden",
+        "en": "AbrazTango – Karlsruhe and Baden-Baden",
+        "de": "AbrazTango – Karlsruhe und Baden-Baden"
+      },
+      {
+        "es": "Milonga Hippmann7 – Wels",
+        "fr": "Milonga Hippmann7 – Wels",
+        "en": "Milonga Hippmann7 – Wels",
+        "de": "Milonga Hippmann7 – Wels"
+      },
+      {
+        "es": "DJ · Tango Marathon Heidelberg 2025 y 2027",
+        "fr": "DJ · Tango Marathon Heidelberg 2025 et 2027",
+        "en": "DJ · Tango Marathon Heidelberg 2025 & 2027",
+        "de": "DJ · Tango Marathon Heidelberg 2025 & 2027"
+      },
+      {
+        "es": "DJ · Festival Tango 32 Salzburg 2025",
+        "fr": "DJ · Festival Tango 32 Salzburg 2025",
+        "en": "DJ · Tango 32 Festival Salzburg 2025",
+        "de": "DJ · Festival Tango 32 Salzburg 2025"
+      },
+      {
+        "es": "DJ · Tango Maldito Múnich 2025–2026",
+        "fr": "DJ · Tango Maldito Munich 2025–2026",
+        "en": "DJ · Tango Maldito Munich 2025–2026",
+        "de": "DJ · Tango Maldito München 2025–2026"
+      },
+      {
+        "es": "DJ Residente · Estación Tango 2.0 y Auténtica Milonga, Salzburg 2012–2026",
+        "fr": "DJ Résident · Estación Tango 2.0 et Auténtica Milonga, Salzburg 2012–2026",
+        "en": "Resident DJ · Estación Tango 2.0 & Auténtica Milonga, Salzburg 2012–2026",
+        "de": "Resident-DJ · Estación Tango 2.0 & Auténtica Milonga, Salzburg 2012–2026"
+      }
+    ],
+    "sidebar_estilos_label": {
+      "es": "Estilo",
+      "fr": "Style",
+      "en": "Style",
+      "de": "Stil"
+    },
+    "estilos": [
+      "Tango Milonguero",
+      "Tango Salón",
+      "Vals",
+      "Milonga"
+    ],
+    "sidebar_idiomas_label": {
+      "es": "Idiomas",
+      "fr": "Langues",
+      "en": "Languages",
+      "de": "Sprachen"
+    },
+    "idiomas": [
+      {
+        "lang": "Español",
+        "pct": 100
+      },
+      {
+        "lang": "Deutsch",
+        "pct": 80
+      },
+      {
+        "lang": "English",
+        "pct": 70
+      },
+      {
+        "lang": "Italiano",
+        "pct": 45
+      }
+    ]
+  },
+  "clases": {
+    "label": {
+      "es": "Programas",
+      "fr": "Programmes",
+      "en": "Programs",
+      "de": "Programme"
+    },
+    "titulo": {
+      "es": "Clases & Eventos",
+      "fr": "Cours & Événements",
+      "en": "Classes & Events",
+      "de": "Kurse & Veranstaltungen"
+    },
+    "subtitulo": {
+      "es": "Cada programa está diseñado con un propósito claro. Encontrá el que mejor se adapta a tu momento.",
+      "fr": "Chaque programme est conçu avec un objectif clair. Trouvez celui qui correspond le mieux à votre moment.",
+      "en": "Each program is designed with a clear purpose. Find the one that best fits where you are right now.",
+      "de": "Jedes Programm ist mit einem klaren Ziel gestaltet. Finde das, das am besten zu deinem aktuellen Stand passt."
+    },
+    "reservar": {
+      "es": "Reservar",
+      "fr": "Réserver",
+      "en": "Book",
+      "de": "Buchen"
+    },
+    "destacado_badge": {
+      "es": "Destacado",
+      "fr": "Vedette",
+      "en": "Featured",
+      "de": "Empfohlen"
+    },
+    "items": [
+      {
+        "icon": "◈",
+        "tag": {
+          "es": "Individual · 60 min.",
+          "fr": "Individuel · 60 min.",
+          "en": "One-on-one · 60 min.",
+          "de": "Einzeln · 60 Min."
+        },
+        "titulo": {
+          "es": "Clase Privada",
+          "fr": "Cours Privé",
+          "en": "Private Class",
+          "de": "Privatstunde"
+        },
+        "desc": {
+          "es": "La vía más rápida de evolución. Trabajamos exactamente lo que necesitás: técnica, conexión, musicalidad.",
+          "fr": "La voie la plus rapide d'évolution. Nous travaillons exactement ce dont vous avez besoin : technique, connexion, musicalité.",
+          "en": "The fastest path to improvement. We work on exactly what you need: technique, connection, musicality.",
+          "de": "Der schnellste Weg zur Entwicklung. Wir arbeiten genau an dem, was du brauchst: Technik, Verbindung, Musikalität."
+        },
+        "detalles": [
+          {
+            "es": "60 minutos",
+            "fr": "60 minutes",
+            "en": "60 minutes",
+            "de": "60 Minuten"
+          },
+          {
+            "es": "1 vez/mes: 80€/hora",
+            "fr": "1 fois/mois : 80€/heure",
+            "en": "1×/month: €80/hour",
+            "de": "1×/Monat: 80€/Stunde"
+          },
+          {
+            "es": "2+ veces/mes: 70€/hora",
+            "fr": "2+ fois/mois : 70€/heure",
+            "en": "2+×/month: €70/hour",
+            "de": "2+×/Monat: 70€/Stunde"
+          },
+          {
+            "es": "En pareja o solo/a",
+            "fr": "En couple ou seul(e)",
+            "en": "Couple or solo",
+            "de": "Paar oder solo"
+          }
+        ],
+        "precio_desde": "€70",
+        "precio_hasta": "€80",
+        "per": {
+          "es": "/ hora",
+          "fr": "/ heure",
+          "en": "/ hour",
+          "de": "/ Stunde"
+        },
+        "featured": false
+      },
+      {
+        "icon": "◉",
+        "tag": {
+          "es": "Grupal · 90 min.",
+          "fr": "Groupe · 90 min.",
+          "en": "Group · 90 min.",
+          "de": "Gruppe · 90 Min."
+        },
+        "titulo": {
+          "es": "Clases Grupales",
+          "fr": "Cours Collectifs",
+          "en": "Group Classes",
+          "de": "Gruppenunterricht"
+        },
+        "desc": {
+          "es": "El corazón del programa. Todos los lunes trabajamos técnica, musicalidad y la dinámica de la pista.",
+          "fr": "Le cœur du programme. Chaque lundi, nous travaillons la technique, la musicalité et la dynamique de la piste.",
+          "en": "The heart of the program. Every Monday we work on technique, musicality and floor dynamics.",
+          "de": "Das Herz des Programms. Jeden Montag arbeiten wir an Technik, Musikalität und Parkettdynamik."
+        },
+        "detalles": [
+          {
+            "es": "90 minutos",
+            "fr": "90 minutes",
+            "en": "90 minutes",
+            "de": "90 Minuten"
+          },
+          {
+            "es": "Todos los lunes",
+            "fr": "Chaque lundi",
+            "en": "Every Monday",
+            "de": "Jeden Montag"
+          },
+          {
+            "es": "Salzburgo",
+            "fr": "Salzburg",
+            "en": "Salzburg",
+            "de": "Salzburg"
+          },
+          {
+            "es": "Todos los niveles",
+            "fr": "Tous niveaux",
+            "en": "All levels",
+            "de": "Alle Niveaus"
+          }
+        ],
+        "precio": "€20",
+        "per": {
+          "es": "/ clase",
+          "fr": "/ cours",
+          "en": "/ class",
+          "de": "/ Kurs"
+        },
+        "featured": true
+      },
+      {
+        "icon": "◇",
+        "tag": {
+          "es": "Intensivo · 90 min./clase",
+          "fr": "Intensif · 90 min./cours",
+          "en": "Intensive · 90 min./class",
+          "de": "Intensiv · 90 Min./Kurs"
+        },
+        "titulo": {
+          "es": "Workshops Especiales",
+          "fr": "Ateliers Spéciaux",
+          "en": "Special Workshops",
+          "de": "Spezielle Workshops"
+        },
+        "desc": {
+          "es": "Dos veces al mes, talleres temáticos para profundizar aspectos específicos del tango. Técnica, musicalidad, improvisación.",
+          "fr": "Deux fois par mois, des ateliers thématiques pour approfondir des aspects spécifiques du tango. Technique, musicalité, improvisation.",
+          "en": "Twice a month, thematic workshops to deepen specific aspects of tango. Technique, musicality, improvisation.",
+          "de": "Zweimal im Monat thematische Workshops zur Vertiefung spezifischer Aspekte des Tangos. Technik, Musikalität, Improvisation."
+        },
+        "detalles": [
+          {
+            "es": "90 minutos por clase",
+            "fr": "90 minutes par cours",
+            "en": "90 minutes per class",
+            "de": "90 Minuten pro Kurs"
+          },
+          {
+            "es": "2 veces al mes",
+            "fr": "2 fois par mois",
+            "en": "Twice a month",
+            "de": "Zweimal im Monat"
+          },
+          {
+            "es": "Pack de 8 clases",
+            "fr": "Pack de 8 cours",
+            "en": "Pack of 8 classes",
+            "de": "Paket mit 8 Kursen"
+          },
+          {
+            "es": "Salzburgo",
+            "fr": "Salzburg",
+            "en": "Salzburg",
+            "de": "Salzburg"
+          }
+        ],
+        "precio": "€150",
+        "per": {
+          "es": "/ 8 clases",
+          "fr": "/ 8 cours",
+          "en": "/ 8 classes",
+          "de": "/ 8 Kurse"
+        },
+        "featured": false
+      }
+    ]
+  },
+  "milonga": {
+    "label": {
+      "es": "Eventos regulares",
+      "fr": "Événements réguliers",
+      "en": "Regular events",
+      "de": "Regelmäßige Veranstaltungen"
+    },
+    "titulo": {
+      "es": "Milongas & Eventos",
+      "fr": "Milongas & Événements",
+      "en": "Milongas & Events",
+      "de": "Milongas & Veranstaltungen"
+    },
+    "eventos": [
+      {
+        "nombre":    { "es": "La Escuela de Tango Argentino", "fr": "La Escuela de Tango Argentino", "en": "La Escuela de Tango Argentino", "de": "La Escuela de Tango Argentino" },
+        "subtitulo": { "es": "Clases regulares", "fr": "Cours réguliers", "en": "Regular classes", "de": "Reguläre Kurse" },
+        "frecuencia":{ "es": "Todos los lunes", "fr": "Chaque lundi", "en": "Every Monday", "de": "Jeden Montag" },
+        "horario":   "19:00–20:30 Uhr",
+        "lugar":     "Ballettschule Evita Easton, Müllner Hauptstrasse 7, Salzburg",
+        "icon":      ""
+      },
+      {
+        "nombre":    { "es": "Estación Tango", "fr": "Estación Tango", "en": "Estación Tango", "de": "Estación Tango" },
+        "subtitulo": { "es": "Milonga tradicional", "fr": "Milonga traditionnelle", "en": "Traditional Milonga", "de": "Traditionelle Milonga" },
+        "frecuencia":{ "es": "Una vez al mes", "fr": "Une fois par mois", "en": "Once a month", "de": "Einmal im Monat" },
+        "horario":   "19:00–23:00 Uhr",
+        "lugar":     "Ziegeleistraße 18, Salzburg",
+        "icon":      ""
+      },
+      {
+        "nombre":    { "es": "Auténtica Milonga 2.0", "fr": "Authentique Milonga 2.0", "en": "Authentic Milonga 2.0", "de": "Authentische Milonga 2.0" },
+        "subtitulo": { "es": "Milonga tradicional", "fr": "Milonga traditionnelle", "en": "Traditional Milonga", "de": "Traditionelle Milonga" },
+        "frecuencia":{ "es": "Una vez al mes", "fr": "Une fois par mois", "en": "Once a month", "de": "Einmal im Monat" },
+        "horario":   "19:00–22:00 Uhr",
+        "lugar":     "Dance Base, Weiserhofstraße 3, Salzburg (beim Hauptbahnhof)",
+        "icon":      ""
+      }
+    ],
+    "proximo_evento": {
+      "label": {
+        "es": "Próximo evento",
+        "fr": "Prochain événement",
+        "en": "Next event",
+        "de": "Nächste Veranstaltung"
+      },
+      "fecha": {
+        "es": "Lorem ipsum fecha próxima",
+        "fr": "Lorem ipsum date prochaine",
+        "en": "Lorem ipsum next date",
+        "de": "Lorem ipsum nächstes Datum"
+      },
+      "cta": {
+        "es": "Conseguir entrada",
+        "fr": "Obtenir un billet",
+        "en": "Get a ticket",
+        "de": "Ticket erhalten"
+      }
+    },
+    "info": [
+      {
+        "label": {
+          "es": "Formato",
+          "fr": "Format",
+          "en": "Format",
+          "de": "Format"
+        },
+        "val": {
+          "es": "Tandas y cortinas",
+          "fr": "Tandas et cortinas",
+          "en": "Tandas and cortinas",
+          "de": "Tandas und Cortinas"
+        }
+      },
+      {
+        "label": {
+          "es": "Música",
+          "fr": "Musique",
+          "en": "Music",
+          "de": "Musik"
+        },
+        "val": {
+          "es": "DJ Eloy Prim · Orquestas clásicas",
+          "fr": "DJ Eloy Prim · Orchestres classiques",
+          "en": "DJ Eloy Prim · Classic orchestras",
+          "de": "DJ Eloy Prim · Klassische Orchester"
+        }
+      },
+      {
+        "label": {
+          "es": "Vestimenta",
+          "fr": "Tenue",
+          "en": "Attire",
+          "de": "Kleidung"
+        },
+        "val": {
+          "es": "Elegante · zapatos de baile",
+          "fr": "Élégante · chaussures de danse",
+          "en": "Elegant · dance shoes",
+          "de": "Elegant · Tanzschuhe"
+        }
+      }
+    ],
+    "testimonios_label": {
+      "es": "Testimonios",
+      "fr": "Témoignages",
+      "en": "Testimonials",
+      "de": "Erfahrungsberichte"
+    },
+    "testimonios_titulo": {
+      "es": "Lo que dicen los alumnos",
+      "fr": "Ce que disent les élèves",
+      "en": "What students say",
+      "de": "Was Schüler sagen"
+    },
+    "testimonios": [
+      {
+        "nombre": "Wolfgang F.",
+        "origen": {
+          "es": "Salzburgo",
+          "fr": "Salzburg",
+          "en": "Salzburg",
+          "de": "Salzburg"
+        },
+        "texto": {
+          "es": "Aprecio especialmente su dominio del tango, su gran dedicación a las clases grupales y su inagotable amabilidad y respeto.",
+          "fr": "J'apprécie particulièrement sa maîtrise du tango, son grand dévouement aux cours collectifs et son amabilité et son respect inépuisables.",
+          "en": "I especially appreciate his mastery of tango, his great dedication to group classes and his inexhaustible friendliness and respect.",
+          "de": "Ich schätze besonders seine Beherrschung des Tangos, seinen großen Einsatz im Gruppenunterricht und seine unerschöpfliche Freundlichkeit und seinen Respekt."
+        }
+      },
+      {
+        "nombre": "Marie-Luise S.",
+        "origen": {
+          "es": "Salzburgo",
+          "fr": "Salzburg",
+          "en": "Salzburg",
+          "de": "Salzburg"
+        },
+        "texto": {
+          "es": "Eloy es una persona maravillosa y un gran profesor de tango. Junto a la encantadora Laura enseña con paciencia, calidez y entusiasmo. Estoy agradecida de estudiar con él, tanto individualmente como en sus clases grupales, desde hace muchos años. Sus milongas son siempre eventos increíbles. ¡Estoy muy feliz de tenerlo aquí como profesor local, en el tango y como un cálido amigo!",
+          "fr": "Eloy est une personne merveilleuse et un excellent professeur de tango. Avec la charmante Laura, il enseigne avec patience, chaleur et enthousiasme. Je suis reconnaissante d'étudier avec lui, individuellement et en cours collectifs, depuis de nombreuses années. Ses milongas sont toujours des événements magnifiques. Je suis si heureuse de l'avoir ici comme professeur local — pour le tango et comme un ami chaleureux !",
+          "en": "Eloy is a wonderful person and Tango teacher. Together with lovely Laura he teaches in a patient, warmhearted and enthusiastic way. I am grateful to study with him individually and in his group lessons since many years. His Milongas are always wonderful events. I am so happy to have him here as a local teacher — in sense of Tango and as a warm friend!",
+          "de": "Eloy ist eine wunderbare Person und ein toller Tangolehrer. Gemeinsam mit der lieben Laura unterrichtet er geduldig, herzlich und enthusiastisch. Ich bin dankbar, seit vielen Jahren sowohl einzeln als auch in seinen Gruppenstunden bei ihm zu lernen. Seine Milongas sind immer wunderbare Veranstaltungen. Ich bin so froh, ihn hier als lokalen Lehrer zu haben — im Sinne des Tangos und als herzlichen Freund!"
+        }
+      },
+      {
+        "nombre": "Brit T.",
+        "origen": {
+          "es": "Salzburgo",
+          "fr": "Salzburg",
+          "en": "Salzburg",
+          "de": "Salzburg"
+        },
+        "texto": {
+          "es": "Eloy es un verdadero líder en esta comunidad de tango y en traer propuestas especiales a sus alumnos. ¡Me alegra tenerlo aquí! Me gusta su forma de enseñar y cómo cuida a cada uno de sus bailarines como a un amigo. ¡Gracias!",
+          "fr": "Eloy est un vrai leader pour animer cette communauté de tango et apporter des événements spéciaux à ses élèves. Je suis contente de l'avoir ici ! J'aime sa façon d'enseigner et la manière dont il prend soin de chacun de ses danseurs comme d'un ami. Merci !",
+          "en": "Eloy is a real good leader in leading this tango community as well as bringing tango specials to his students! I am glad to have him here! I like the way he teaches and the way he looks after each of his dancers like a friend. Thank you!",
+          "de": "Eloy ist ein echter Leader in dieser Tango-Community und bringt immer besondere Highlights für seine Schüler! Ich bin froh, ihn hier zu haben! Mir gefällt seine Art zu unterrichten und wie er sich um jeden seiner Tänzer wie ein Freund kümmert. Danke!"
+        }
+      },
+      {
+        "nombre": "Katharina L.",
+        "origen": {
+          "es": "Salzburgo",
+          "fr": "Salzburg",
+          "en": "Salzburg",
+          "de": "Salzburg"
+        },
+        "texto": {
+          "es": "Ya he aprendido muchísimo con Eloy, tanto en clases privadas como en su curso de los lunes por la noche. El entrenamiento regular realmente marca la diferencia. Me gusta mucho su manera de enseñar: sensible y precisa. ¡Siempre lo espero con ganas! Sabe exactamente dónde está cada alumno y parte desde ahí.",
+          "fr": "J'ai déjà beaucoup appris avec Eloy, dans les cours particuliers et dans son cours du lundi soir. L'entraînement régulier fait vraiment progresser. J'aime beaucoup sa façon d'enseigner : sensible et précise. J'ai toujours hâte d'y être ! Il sait exactement où en est chaque élève et part de là.",
+          "en": "I have already learned a great deal with Eloy, in private lessons and in his Monday evening class. Regular training really makes a difference. I very much like his sensitive and precise way of teaching. I always look forward to it! He picks up each student exactly where they are.",
+          "de": "Ich habe schon sehr viel bei Eloy gelernt, in den Privatstunden und in seinem Montagsabendkurs. Das regelmäßige Training bringt wirklich voran. Ich mag die einfühlsame und präzise Art, wie Eloy unterrichtet, sehr! Ich freue mich immer darauf! Er holt jeden genau da ab, wo er gerade steht."
+        }
+      }
+    ],
+    "galeria_label": {
+      "es": "Galería",
+      "fr": "Galerie",
+      "en": "Gallery",
+      "de": "Galerie"
+    },
+    "galeria_titulo": {
+      "es": "Momentos en la pista",
+      "fr": "Moments de Tango",
+      "en": "Tango Moments",
+      "de": "Tango - Momente"
+    },
+    "galeria_items": [
+      { "src":"foto6.jpg", "size":"small"},
+      { "src": "foto2.jpg", "size": "small" },
+      { "src": "foto4.png", "size": "small",  "caption": { "es": "Auténtica Milonga 2.0", "fr": "Auténtica Milonga 2.0", "en": "Auténtica Milonga 2.0", "de": "Auténtica Milonga 2.0" } },
+      { "src": "foto1.jpeg", "size": "small" },
+      { "src": "foto3.jpg", "size": "small" },
+      { "src": "foto5.jpeg", "size": "small",  "caption": { "es": "Estación Tango", "fr": "Estación Tango", "en": "Estación Tango", "de": "Estación Tango" } },
+      { "src":"foto7.jpeg", "size":"small"},
+      { "src":"foto8.jpg", "size":"small"}
+
+    ]},
+  "contacto": {
+    "label": {
+      "es": "Contacto",
+      "fr": "Contact",
+      "en": "Contact",
+      "de": "Kontakt"
+    },
+    "titulo": {
+      "es": "Empezá a bailar hoy",
+      "fr": "Commencez à danser aujourd'hui",
+      "en": "Start dancing today",
+      "de": "Fang heute an zu tanzen"
+    },
+    "desc": {
+      "es": "Mandame un mensaje para reservar una clase, consultar sobre los próximos eventos o simplemente charlar sobre el tango.",
+      "fr": "Envoyez-moi un message pour réserver un cours, vous renseigner sur les prochains événements ou simplement discuter de tango.",
+      "en": "Send me a message to book a class, ask about upcoming events or simply chat about tango.",
+      "de": "Schick mir eine Nachricht, um einen Kurs zu buchen, nach bevorstehenden Veranstaltungen zu fragen oder einfach über Tango zu plaudern."
+    },
+    "info": [
+      {
+        "icon": "✦",
+        "label": {
+          "es": "Ubicación",
+          "fr": "Localisation",
+          "en": "Location",
+          "de": "Standort"
+        },
+        "val": {
+          "es": "Salzburgo, Austria",
+          "fr": "Salzburg, Autriche",
+          "en": "Salzburg, Austria",
+          "de": "Salzburg, Österreich"
+        }
+      },
+      {
+        "icon": "✦",
+        "label": {
+          "es": "Email",
+          "fr": "Email",
+          "en": "Email",
+          "de": "E-Mail"
+        },
+        "val": {
+          "es": "eloyprim@gmail.com",
+          "fr": "eloyprim@gmail.com",
+          "en": "eloyprim@gmail.com",
+          "de": "eloyprim@gmail.com"
+        }
+      },
+      {
+        "icon": "✦",
+        "label": {
+          "es": "WhatsApp",
+          "fr": "WhatsApp",
+          "en": "WhatsApp",
+          "de": "WhatsApp"
+        },
+        "val": {
+          "es": "+43 664 7813 7729",
+          "fr": "+43 664 7813 7729",
+          "en": "+43 664 7813 7729",
+          "de": "+43 664 7813 7729"
+        }
+      },
+      {
+        "icon": "✦",
+        "label": {
+          "es": "Clases grupales",
+          "fr": "Cours collectifs",
+          "en": "Group classes",
+          "de": "Gruppenkurse"
+        },
+        "val": {
+          "es": "Lunes · Salzburgo",
+          "fr": "Lundi · Salzburg",
+          "en": "Monday · Salzburg",
+          "de": "Montag · Salzburg"
+        }
+      }
+    ],
+    "social": [
+      {
+        "name": "Instagram",
+        "href": "https://instagram.com/elotango"
+      },
+      {
+        "name": "Facebook",
+        "href": "https://facebook.com/elotango"
+      },
+      {
+        "name": "YouTube",
+        "href": "https://youtube.com/@elotango"
+      }
+    ],
+    "form": {
+      "nombre": {
+        "es": "Nombre",
+        "fr": "Nom",
+        "en": "Name",
+        "de": "Name"
+      },
+      "nombre_ph": {
+        "es": "Tu nombre completo",
+        "fr": "Votre nom complet",
+        "en": "Your full name",
+        "de": "Dein vollständiger Name"
+      },
+      "email": {
+        "es": "Email",
+        "fr": "Email",
+        "en": "Email",
+        "de": "E-Mail"
+      },
+      "email_ph": {
+        "es": "tu@email.com",
+        "fr": "votre@email.com",
+        "en": "your@email.com",
+        "de": "deine@email.com"
+      },
+      "asunto": {
+        "es": "Asunto",
+        "fr": "Sujet",
+        "en": "Subject",
+        "de": "Betreff"
+      },
+      "asunto_ph": {
+        "es": "Seleccioná un tema",
+        "fr": "Sélectionnez un sujet",
+        "en": "Select a topic",
+        "de": "Wähle ein Thema"
+      },
+      "mensaje": {
+        "es": "Mensaje",
+        "fr": "Message",
+        "en": "Message",
+        "de": "Nachricht"
+      },
+      "mensaje_ph": {
+        "es": "Contame en qué puedo ayudarte...",
+        "fr": "Dites-moi comment je peux vous aider...",
+        "en": "Tell me how I can help you...",
+        "de": "Sag mir, wie ich dir helfen kann..."
+      },
+      "enviar": {
+        "es": "Enviar mensaje",
+        "fr": "Envoyer le message",
+        "en": "Send message",
+        "de": "Nachricht senden"
+      },
+      "enviado": {
+        "es": "✓ Mensaje enviado",
+        "fr": "✓ Message envoyé",
+        "en": "✓ Message sent",
+        "de": "✓ Nachricht gesendet"
+      },
+      "confirmacion": {
+        "es": "Te respondo en menos de 24 horas.",
+        "fr": "Je vous réponds en moins de 24 heures.",
+        "en": "I'll get back to you within 24 hours.",
+        "de": "Ich antworte dir innerhalb von 24 Stunden."
+      },
+      "error": {
+        "es": "Error al enviar. Intentá de nuevo.",
+        "fr": "Erreur d'envoi. Réessayez.",
+        "en": "Send error. Please try again.",
+        "de": "Sendefehler. Bitte erneut versuchen."
+      },
+      "asuntos": [
+        {
+          "es": "Clase privada",
+          "fr": "Cours privé",
+          "en": "Private class",
+          "de": "Privatstunde"
+        },
+        {
+          "es": "Clases grupales",
+          "fr": "Cours collectifs",
+          "en": "Group classes",
+          "de": "Gruppenunterricht"
+        },
+        {
+          "es": "Workshop especial",
+          "fr": "Atelier spécial",
+          "en": "Special workshop",
+          "de": "Spezieller Workshop"
+        },
+        {
+          "es": "Estación Tango 2.0",
+          "fr": "Estación Tango 2.0",
+          "en": "Estación Tango 2.0",
+          "de": "Estación Tango 2.0"
+        },
+        {
+          "es": "Auténtica Milonga 2.0",
+          "fr": "Authentique Milonga 2.0",
+          "en": "Authentic Milonga 2.0",
+          "de": "Authentische Milonga 2.0"
+        },
+        {
+          "es": "Consulta general",
+          "fr": "Renseignement général",
+          "en": "General inquiry",
+          "de": "Allgemeine Anfrage"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": {
+      "es": "Tango Argentino · Salzburgo",
+      "fr": "Tango Argentin · Salzburg",
+      "en": "Argentine Tango · Salzburg",
+      "de": "Argentinischer Tango · Salzburg"
+    },
+    "frase": {
+      "es": "Tango Argentino hecho por Argentinos.",
+      "fr": "Tango Argentin fait par des Argentins.",
+      "en": "Argentine Tango made by Argentines.",
+      "de": "Argentinischer Tango gemacht von Argentiniern."
+    },
+    "col_nav": {
+      "es": "Navegación",
+      "fr": "Navigation",
+      "en": "Navigation",
+      "de": "Navigation"
+    },
+    "col_prog": {
+      "es": "Programas",
+      "fr": "Programmes",
+      "en": "Programs",
+      "de": "Programme"
+    },
+    "col_redes": {
+      "es": "Redes",
+      "fr": "Réseaux",
+      "en": "Social",
+      "de": "Netzwerke"
+    },
+    "copyright": {
+      "es": "Todos los derechos reservados",
+      "fr": "Tous droits réservés",
+      "en": "All rights reserved",
+      "de": "Alle Rechte vorbehalten"
+    }
+  }
+}
