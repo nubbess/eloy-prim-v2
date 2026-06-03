@@ -101,16 +101,16 @@
 
 <script setup>
 import { ref, computed } from 'vue'
-import { useLocale }   from '@/composables/useLocale'
-import { useEmailJS }  from '@/composables/useEmailJS'
+import { useLocale } from '@/composables/useLocale'
 
 const { content, t } = useLocale()
 const data = content.contacto
 const f    = data.form
 
-const { sending, sent, error, sendEmail } = useEmailJS()
-
-const form = ref({ nombre: '', email: '', asunto: '', mensaje: '' })
+const form    = ref({ nombre: '', email: '', asunto: '', mensaje: '' })
+const sending = ref(false)
+const sent    = ref(false)
+const error   = ref(false)
 
 const formattedTitle = computed(() => {
   const full  = t(data.titulo)
@@ -120,8 +120,30 @@ const formattedTitle = computed(() => {
 })
 
 async function handleSubmit() {
-  const ok = await sendEmail(form.value)
-  if (ok) form.value = { nombre: '', email: '', asunto: '', mensaje: '' }
+  sending.value = true
+  error.value   = false
+  try {
+    const res = await fetch('https://formspree.io/f/xnjyqpek', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        nombre:  form.value.nombre,
+        email:   form.value.email,
+        asunto:  form.value.asunto,
+        mensaje: form.value.mensaje
+      })
+    })
+    if (res.ok) {
+      sent.value = true
+      form.value = { nombre: '', email: '', asunto: '', mensaje: '' }
+    } else {
+      error.value = true
+    }
+  } catch {
+    error.value = true
+  } finally {
+    sending.value = false
+  }
 }
 </script>
 

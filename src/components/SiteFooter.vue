@@ -28,7 +28,8 @@
     </div>
 
     <div class="footer__bottom">
-      <span>© {{ year }} Eloy Prim · Tango Argentino · Wien</span>
+      <span>© {{ year }} Eloy Prim | All rights reserved | Photos by Barara Klein | Design & Development: Julián Martínez Sänger - 
+        julianmartinezsanger@gmail.com | Salzburg, Österreich</span>
       <span>{{ t(data.copyright) }}</span>
     </div>
   </footer>
@@ -44,11 +45,12 @@ const year    = new Date().getFullYear()
 const navKeys = ['inicio', 'biografia', 'clases', 'milonga', 'galeria', 'contacto']
 
 const programas = [
-  { key: 'priv',   href: '#clases',  label: content.clases.items[0].titulo },
-  { key: 'grup',   href: '#clases',  label: content.clases.items[1].titulo },
-  { key: 'mil',    href: '#milonga', label: content.clases.items[2].titulo },
-  { key: 'estac',  href: '#milonga', label: content.clases.items[3].titulo },
-  { key: 'intens', href: '#clases',  label: content.clases.items[4].titulo },
+  { key: 'priv',  href: '#clases',  label: content.clases.items[0].titulo },
+  { key: 'grup',  href: '#clases',  label: content.clases.items[1].titulo },
+  { key: 'work',  href: '#clases',  label: content.clases.items[2].titulo },
+  { key: 'mil1',  href: '#milonga', label: content.milonga.eventos[0].nombre },
+  { key: 'mil2',  href: '#milonga', label: content.milonga.eventos[1].nombre },
+  { key: 'mil3',  href: '#milonga', label: content.milonga.eventos[2].nombre },
 ]
 </script>
 
@@ -113,6 +115,8 @@ const programas = [
 /* Bottom bar */
 .footer__bottom {
   max-width: var(--max-width);
+  -webkit-text-stroke: 0.7px;
+  color: white;
   margin: 0 auto;
   padding: 20px var(--pad-x);
   border-top: 1px solid rgba(255,255,255,.05);
