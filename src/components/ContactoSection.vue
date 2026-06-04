@@ -191,6 +191,7 @@ async function handleSubmit() {
   text-transform: uppercase;
   color: #aaa;
   margin-bottom: 2px;
+  -webkit-text-stroke: 0.7px;
 }
 .contacto__info-val { display: block; font-size: 14.5px; color: var(--color-negro); }
 
