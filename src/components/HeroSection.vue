@@ -315,5 +315,16 @@ const badgeText = computed(() => {
 }
 @media (max-width: 480px) {
   .hero__badge, .hero__deco-corner, .hero__deco-dot { display: none; }
+
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .hero__badge {
+    left: -200px;
+  }
+
+}
+
+
+
 </style>

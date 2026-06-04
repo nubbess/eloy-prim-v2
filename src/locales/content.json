@@ -45,10 +45,10 @@
   },
   "hero": {
     "tag": {
-      "es": "Buenos Aires · Salzburgo · 2026",
-      "fr": "Buenos Aires · Salzburg · 2026",
-      "en": "Buenos Aires · Salzburg · 2026",
-      "de": "Buenos Aires · Salzburg · 2026"
+      "es": "Buenos Aires · Salzburg · Karlsruhe · Strasbourg",
+      "fr": "Buenos Aires · Salzburg · Karlsruhe · Strasbourg",
+      "en": "Buenos Aires · Salzburg · Karlsruhe · Strasbourg",
+      "de": "Buenos Aires · Salzburg · Karlsruhe · Strasbourg"
     },
     "titulo": {
       "es": "Tango Argentino hecho por Argentinos",
@@ -209,21 +209,12 @@
         }
       },
       {
-        "año": "2025–2026",
+        "año": "2012+",
         "desc": {
-          "es": "Profesor/bailarín: Tango Anabella (Múnich), Tango Deseos (Heidelberg), AbrazTango (Karlsruhe/Baden-Baden), Milonga Hippmann7 (Wels)",
-          "fr": "Professeur/danseur : Tango Anabella (Munich), Tango Deseos (Heidelberg), AbrazTango (Karlsruhe/Baden-Baden), Milonga Hippmann7 (Wels)",
-          "en": "Teacher/dancer: Tango Anabella (Munich), Tango Deseos (Heidelberg), AbrazTango (Karlsruhe/Baden-Baden), Milonga Hippmann7 (Wels)",
-          "de": "Lehrer/Tänzer: Tango Anabella (München), Tango Deseos (Heidelberg), AbrazTango (Karlsruhe/Baden-Baden), Milonga Hippmann7 (Wels)"
-        }
-      },
-      {
-        "año": "2025–2027",
-        "desc": {
-          "es": "DJ: Tango Marathon Heidelberg, Festival Tango 32 Salzburg, Tango Maldito Múnich, DJ Residente Estación Tango y Auténtica Milonga 2.0 (2012–2026)",
-          "fr": "DJ : Tango Marathon Heidelberg, Festival Tango 32 Salzburg, Tango Maldito Munich, DJ Résident Estación Tango et Auténtica Milonga 2.0 (2012–2026)",
-          "en": "DJ: Tango Marathon Heidelberg, Tango 32 Festival Salzburg, Tango Maldito Munich, Resident DJ Estación Tango & Auténtica Milonga 2.0 (2012–2026)",
-          "de": "DJ: Tango Marathon Heidelberg, Festival Tango 32 Salzburg, Tango Maldito München, Resident-DJ Estación Tango & Auténtica Milonga 2.0 (2012–2026)"
+          "es": "Clases, shows y DJ en Alemania, España, Austria y Francia. Actualmente, clases regulares en Salzburgo, Estrasburgo y Karlsruhe.",
+          "fr": "Cours, spectacles et DJ en Allemagne, en Espagne, en Autriche et en France. Actuellement, cours réguliers à Salzbourg, Strasbourg et Karlsruhe.",
+          "en": "Classes, performances and DJ sets in Germany, Spain, Austria and France. Currently, regular classes in Salzburg, Strasbourg and Karlsruhe.",
+          "de": "Unterricht, Shows und DJ-Tätigkeit in Deutschland, Spanien, Österreich und Frankreich. Derzeit regelmäßiger Unterricht in Salzburg, Straßburg und Karlsruhe."
         }
       }
     ],
@@ -471,10 +462,10 @@
           "de": "Intensiv · 90 Min./Kurs"
         },
         "titulo": {
-          "es": "Workshops Especiales",
-          "fr": "Ateliers Spéciaux",
-          "en": "Special Workshops",
-          "de": "Spezielle Workshops"
+          "es": "Milonga Workshop",
+          "fr": "Atelier Milonga",
+          "en": "Milonga Workshops",
+          "de": "Milonga Workshops"
         },
         "desc": {
           "es": "Dos veces al mes, talleres temáticos para profundizar aspectos específicos del tango. Técnica, musicalidad, improvisación.",
@@ -544,7 +535,7 @@
       {
         "nombre":    { "es": "Estación Tango", "fr": "Estación Tango", "en": "Estación Tango", "de": "Estación Tango" },
         "subtitulo": { "es": "Milonga tradicional", "fr": "Milonga traditionnelle", "en": "Traditional Milonga", "de": "Traditionelle Milonga" },
-        "frecuencia":{ "es": "Una vez al mes", "fr": "Une fois par mois", "en": "Once a month", "de": "Einmal im Monat" },
+        "frecuencia":{ "es": "Un sábado al mes", "fr": "Un samedi par mois", "en": "One Saturday a month", "de": "Einmal im Monat an einem Samstag" },
         "horario":   "19:00–23:00 Uhr",
         "lugar":     "Ziegeleistraße 18, Salzburg",
         "icon":      ""
@@ -552,7 +543,7 @@
       {
         "nombre":    { "es": "Auténtica Milonga 2.0", "fr": "Authentique Milonga 2.0", "en": "Authentic Milonga 2.0", "de": "Authentische Milonga 2.0" },
         "subtitulo": { "es": "Milonga tradicional", "fr": "Milonga traditionnelle", "en": "Traditional Milonga", "de": "Traditionelle Milonga" },
-        "frecuencia":{ "es": "Una vez al mes", "fr": "Une fois par mois", "en": "Once a month", "de": "Einmal im Monat" },
+        "frecuencia":{ "es": "Un viernes al mes", "fr": "Un vendredi par mois", "en": "One Friday a month", "de": "Einmal im Monat an einem Freitag" },
         "horario":   "19:00–22:00 Uhr",
         "lugar":     "Dance Base, Weiserhofstraße 3, Salzburg (beim Hauptbahnhof)",
         "icon":      ""
@@ -901,10 +892,10 @@
           "de": "Gruppenunterricht"
         },
         {
-          "es": "Workshop especial",
-          "fr": "Atelier spécial",
-          "en": "Special workshop",
-          "de": "Spezieller Workshop"
+          "es": "Milonga Workshop",
+          "fr": "Atelier Milonga",
+          "en": "Milonga workshop",
+          "de": "Milonga Workshop"
         },
         {
           "es": "Estación Tango",

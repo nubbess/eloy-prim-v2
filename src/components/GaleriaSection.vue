@@ -1,36 +1,34 @@
 <template>
   <section id="galeria" class="galeria">
     <div class="galeria__inner section-inner">
-      <p class="section-label">{{ t(data.galeria_label) }}</p>
-      <h2 class="galeria__title" v-html="formattedTitle"></h2>
-
+      <!-- ... todo igual ... -->
       <div class="galeria__grid">
-  <div
-    v-for="(item, i) in data.galeria_items"
-    :key="i"
-    :class="['galeria__item', `galeria__item--${item.size}`]"
-  >
-    <img :src="item.src" :alt="t(item.caption)" class="galeria__img" />
-    <div class="galeria__overlay">
-      <span class="galeria__caption">{{ t(item.caption) }}</span>
-    </div>
-  </div>
-</div>
-
-      <!-- <p class="galeria__note">
-        <span aria-hidden="true">◈</span>
-        {{ placeholderNote }}
-      </p> -->
+        <div
+          v-for="(item, i) in data.galeria_items"
+          :key="i"
+          :class="['galeria__item', `galeria__item--${item.size}`]"
+          @click="selected = { src: item.src, caption: t(item.caption) }"
+        >
+          <img :src="item.src" :alt="t(item.caption)" class="galeria__img" />
+          <div class="galeria__overlay">
+            <span class="galeria__caption">{{ t(item.caption) }}</span>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
+
+  <ImageLightbox v-model="selected" /> <!-- 👈 -->
 </template>
 
 <script setup>
-import { computed } from 'vue'
+import { ref, computed } from 'vue'
 import { useLocale } from '@/composables/useLocale'
+import ImageLightbox from '@/components/ImageLightbox.vue' // 👈
 
 const { content, locale, t } = useLocale()
 const data = content.milonga
+const selected = ref(null) // 👈
 
 const formattedTitle = computed(() => {
   const full  = t(data.galeria_titulo)
@@ -38,16 +36,6 @@ const formattedTitle = computed(() => {
   const half  = Math.ceil(parts.length / 2)
   return `${parts.slice(0, half).join(' ')}<br><em>${parts.slice(half).join(' ')}</em>`
 })
-
-// const placeholderNote = computed(() => {
-//   const map = {
-//     es: 'Reemplazar con fotos reales del cliente',
-//     fr: 'Remplacer par de vraies photos du client',
-//     en: 'Replace with actual client photos',
-//     de: 'Durch echte Fotos des Kunden ersetzen',
-//   }
-//   return map[locale.value] ?? map.es
-// })
 </script>
 
 <style scoped>
