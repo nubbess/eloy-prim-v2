@@ -1,0 +1,7 @@
+{
+  "slug": "mi-primer-post",
+  "title": "Mi primer post",
+  "date": "2024-06-15",
+  "cover": "/images/blog/post1.jpg",
+  "body": "<p>Acá va el texto del post.</p>"
+}
