@@ -1,6 +1,7 @@
 <!-- xd -->
 <template>
   <NavBar />
+  <WelcomePopup />
   <main>
     <HeroSection />
     <BioSection />
@@ -8,6 +9,7 @@
     <MilongaSection />
     <GaleriaSection />
     <ContactoSection />
+    <GoogleCalendar />
   </main>
   <SiteFooter />
 </template>
@@ -21,4 +23,6 @@ import MilongaSection from '@/components/MilongaSection.vue'
 import GaleriaSection from '@/components/GaleriaSection.vue'
 import ContactoSection from '@/components/ContactoSection.vue'
 import SiteFooter     from '@/components/SiteFooter.vue'
+import GoogleCalendar from '@/components/GoogleCalendar.vue'
+import WelcomePopup   from '@/components/WelcomePopup.vue'
 </script>
