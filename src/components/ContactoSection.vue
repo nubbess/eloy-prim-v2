@@ -84,6 +84,7 @@
             type="submit"
             :class="['form__submit', { 'form__submit--sent': sent, 'form__submit--error': error }]"
             :disabled="sending"
+            id="calendario"
           >
             <span v-if="sending" class="form__spinner"></span>
             <span v-else-if="sent">{{ t(f.enviado) }}</span>
