@@ -41,6 +41,12 @@
       "fr": "Réserver un cours",
       "en": "Book a class",
       "de": "Kurs buchen"
+    },
+    "calendario": {
+      "es": "Calendario",
+      "fr": "Calendrier",
+      "en": "Calendar",
+      "de": "Kalender"
     }
   },
   "hero": {
@@ -710,6 +716,12 @@
       { "src":"foto8.jpg", "size":"small"}
 
     ]},
+    "galeria_welcome":
+    [
+      {"src": "autentica.jpg"},
+      {"src": "estacion.jpg"}
+
+    ],
   "contacto": {
     "label": {
       "es": "Contacto",
@@ -916,6 +928,12 @@
           "de": "Allgemeine Anfrage"
         }
       ]
+    },
+    "calendario":{
+      "es": "Calendario",
+      "fr": "Calendrier",
+      "en": "Calendar",
+      "de": "Kalender"
     }
   },
   "footer": {
