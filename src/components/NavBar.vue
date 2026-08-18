@@ -76,7 +76,7 @@ import { useLocale } from '@/composables/useLocale'
 
 const { locale, supported, content, setLocale, t } = useLocale()
 
-const navKeys   = ['inicio', 'biografia', 'clases', 'milonga', 'galeria', 'contacto']
+const navKeys   = ['inicio', 'biografia', 'clases', 'milonga', 'galeria', 'contacto', 'calendario']
 const scrolled  = ref(false)
 const menuOpen  = ref(false)
 
